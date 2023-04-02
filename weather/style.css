@@ -72,6 +72,6 @@ input::placeholder{
 
   @media only screen and (max-width:420px) {
     body {
-        background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('images/photo-1596306499300-0b7b1689b9f6.jfif');
+        background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('images/photo-1596306499300-0b7b1689b9f6.jpg');
     }
   }
